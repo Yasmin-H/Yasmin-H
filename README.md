@@ -20,7 +20,7 @@ Microbiology graduate turned Full-Stack Software Developer
 
 - 💞Hobbies: Asides from coding ,I love love love reading webtoons , fantasy Romance books , watching kdramas and ofcourse anime!
 
-- 🏋🏽‍♀️I'm currently working on: Restaurant booking App - my final capstone project
+- 🏋🏽‍♀️I'm currently working on: Improving my knowledge on App developmment
 
 - ☘️Currently learning: brushing up my Data Structures and Algorithms
 
